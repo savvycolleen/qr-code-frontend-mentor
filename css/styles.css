@@ -7,7 +7,7 @@ body {
 .box {
   background: hsl(0, 0%, 100%);
   width: 300px;
-  margin: 5rem auto;
+  margin: 10rem auto;
   box-shadow: hsl(212, 45%, 89%) 0px 6px 24px 0px, hsl(212, 45%, 89%) 0px 0px 0px 1px;
 }
 
